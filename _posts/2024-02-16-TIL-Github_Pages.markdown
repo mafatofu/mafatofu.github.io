@@ -41,7 +41,7 @@ $ gem -v
 ```
 나오면 잘 설치된것  
 
-## 제킬
+## Jekyll
 
 gem install bundler // maven 같은것. 빌드 자동화 도구?
 
@@ -58,7 +58,7 @@ bundle exec jekyll serve
 여기까지 하고 add/commit/push. 깃허브 초록체크표시 확인
 ---
 
-### 제킬 테마 입히기
+### Jekyll 테마 입히기
 
 https://jekyllthemes.io/theme/flexible-jekyll
 
